@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homeW-25%20%20/static/css/main.5b633953.css",
+    "main.js": "/homeW-25%20%20/static/js/main.f8f4393a.js",
+    "index.html": "/homeW-25%20%20/index.html",
+    "main.5b633953.css.map": "/homeW-25%20%20/static/css/main.5b633953.css.map",
+    "main.f8f4393a.js.map": "/homeW-25%20%20/static/js/main.f8f4393a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b633953.css",
+    "static/js/main.f8f4393a.js"
+  ]
+}
